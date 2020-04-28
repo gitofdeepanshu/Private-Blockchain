@@ -1,3 +1,6 @@
+# Changes
+1.BlockHash endpoint changesd to /blockHash/:hash
+2.BlockAddress endpoint changed to /blockAddress/:address
 # Private Blockchain Application
 
 You are starting your journey as a Blockchain Developer, this project allows you to demonstrate
